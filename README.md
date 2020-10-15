@@ -1,4 +1,4 @@
-# "Fixed-Support Wasserstein Barycenters: Computational Hardness and Fast Algorithm." in NeurIPS'20 
+# Fast Iterative Bregman Projection for Computing Fixed-Support Wasserstein Barycenters
 
 These codes provide implementations of solvers for computing fixed-support Wasserstein barycenters using the fast iterative Bregman projection (FastIBP) algorithm. 
 
